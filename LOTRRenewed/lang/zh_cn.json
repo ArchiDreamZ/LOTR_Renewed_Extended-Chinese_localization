@@ -1,7 +1,6 @@
 {
   "lotr.menu.title":"魔戒模组:将中洲带入Minecraft！——复兴版",
   "lotr.menu.subtitle":"1.16版本绝赞更新中",
-
   "block.lotr.gondor_rock":"刚铎石",
   "block.lotr.gondor_brick":"刚铎砖",
   "block.lotr.mordor_rock":"魔多石",
@@ -1358,7 +1357,6 @@
   "block.lotr.bree_crafting_table": "布理地区工作台",
   "block.lotr.palantir": "帕兰提尔",
   "block.lotr.mordor_dirt_path": "魔多土径",
-  
   "item.lotr.gold_ring":"金戒指",
   "item.lotr.copper_ingot":"铜锭",
   "item.lotr.tin_ingot":"锡锭",
@@ -1728,7 +1726,6 @@
   "item.lotr.pouch.picked_up_new_items": "捡起新物品",
   "item.lotr.pouch.dyed": "染色的",
   "item.lotr.pouch.dyed.faction": "染了派系%s的颜色",
-  
   "item.lotr.drink.weak": "弱",
   "item.lotr.drink.light": "清淡",
   "item.lotr.drink.moderate": "适中",
@@ -1737,11 +1734,9 @@
   "item.lotr.drink.alcoholicity": "酒精度: %.2f%%",
   "item.lotr.drink.cures_harmful": "治愈负面效果",
   "item.lotr.drink.damage": "饮用时造成%d点伤害",
-  
   "item.lotr.generic.currentOwner": "现在属于：%s",
   "item.lotr.generic.previousOwner": "曾经属于：%s",
   "item.lotr.generic.previousOwnerList": "曾经属于：",
-  
   "itemGroup.lotr.blocks":"中洲方块",
   "itemGroup.lotr.util":"中洲效用",
   "itemGroup.lotr.decorations":"中洲装饰",
@@ -1752,7 +1747,6 @@
   "itemGroup.lotr.combat":"中洲战斗",
   "itemGroup.lotr.story":"中洲故事",
   "itemGroup.lotr.spawners": "中洲生成",
-  
   "container.lotr.gondor_crafting":"刚铎合成",
   "container.lotr.mordor_crafting":"魔古尔合成",
   "container.lotr.rohan_crafting":"洛汗合成",
@@ -1774,13 +1768,11 @@
   "container.lotr.lossoth_crafting": "洛斯索斯合成",
   "container.lotr.dunlending_crafting": "黑蛮地合成",
   "container.lotr.bree_crafting": "布理地区合成",
-  
   "container.lotr.alloy_forge": "合金锻炉",
   "container.lotr.dwarven_forge": "矮人锻炉",
   "container.lotr.elven_forge": "精灵锻炉",
   "container.lotr.orc_forge": "奥克锻炉",
   "container.lotr.hobbit_oven": "霍比特烤炉",
-  
   "container.lotr.keg.empty": "小桶 - 空",
   "container.lotr.keg.brewing": "小桶 - 酿造中",
   "container.lotr.keg.full": "小桶 - 满",
@@ -1789,9 +1781,7 @@
   "container.lotr.keg.finish_brewing": "终止酿造",
   "container.lotr.keg.finish_brewing.tooltip.allowed": "现在终止酿造会得到%s饮料",
   "container.lotr.keg.finish_brewing.tooltip.not_allowed": "必须至少酿到%s饮料",
-  
   "dimension.lotr.middle_earth": "中洲",
-  
   "biome.lotr.shire":"夏尔",
   "biome.lotr.mordor":"魔多",
   "biome.lotr.anorien": "阿诺瑞恩",
@@ -1909,9 +1899,7 @@
   "biome.lotr.umbar_forest": "乌姆巴尔森林",
   "biome.lotr.umbar_hills": "乌姆巴尔丘陵",
   "biome.lotr.field_of_cormallen": "科瑁兰原野",
-  
   "entity.lotr.ring_portal": "戒指传送门",
-  
   "entity.lotr.hobbit": "霍比特人",
   "entity.lotr.mordor_orc": "魔多奥克",
   "entity.lotr.gondor_man": "刚铎人",
@@ -1957,9 +1945,7 @@
   "entity.lotr.bree_man": "布理人",
   "entity.lotr.bree_hobbit": "布理霍比特人",
   "entity.lotr.bree_guard": "布理地区守卫",
-  
   "entity.lotr.caracal": "狞猫",
-  
   "item.lotr.hobbit_spawn_egg": "霍比特人刷怪蛋",
   "item.lotr.mordor_orc_spawn_egg": "魔多奥克刷怪蛋",
   "item.lotr.gondor_man_spawn_egg": "刚铎人刷怪蛋",
@@ -2005,29 +1991,23 @@
   "item.lotr.bree_man_spawn_egg": "布理人刷怪蛋",
   "item.lotr.bree_hobbit_spawn_egg": "布理霍比特人刷怪蛋",
   "item.lotr.bree_guard_spawn_egg": "布理地区守卫刷怪蛋",
-  
   "item.lotr.caracal_spawn_egg": "狞猫刷怪蛋",
-  
   "entityname.lotr.generic": "%s,%s",
   "entityname.lotr.gondor_man": "刚铎的%s",
   "entityname.lotr.rohan_man": "洛汗的%s",
   "entityname.lotr.dale_man": "河谷邦的%s",
   "entityname.lotr.harnedhrim": "哈尔能的%s",
   "entityname.lotr.umbar_man": "乌姆巴尔的%s",
-
   "attribute.name.lotr.npc.ranged_inaccuracy": "NPC远程攻击偏离度",
   "attribute.name.lotr.npc.mount_attack_speed": "NPC骑乘攻击速度",
   "attribute.name.lotr.npc.conversation_range": "NPC交谈范围",
-  
   "lotr.date.shire.short": "夏尔历",
   "lotr.date.shire.long": "夏尔历",
-  
   "lotr.date.shire.format.weekdayOfMonth": "%3$s %2$d日 %1$s",
   "lotr.date.shire.format.weekdayOfSingleDayMonth": "%s %s",
   "lotr.date.shire.format.singleDayMonth": "%s",
   "lotr.date.shire.format.year": "%s %d年",
   "lotr.date.shire.format.dateAndYear": "%s, %s",
-
   "lotr.date.shire.day.sterday": "星辰日",
   "lotr.date.shire.day.sunday": "太阳日",
   "lotr.date.shire.day.monday": "月亮日",
@@ -2035,7 +2015,6 @@
   "lotr.date.shire.day.hevensday": "穹苍日",
   "lotr.date.shire.day.mersday": "大海日",
   "lotr.date.shire.day.highday": "众神日",
-
   "lotr.date.shire.month.yule2": "尤尔二日",
   "lotr.date.shire.month.afteryule": "一月",
   "lotr.date.shire.month.solmath": "二月",
@@ -2054,33 +2033,27 @@
   "lotr.date.shire.month.blotmath": "十一月",
   "lotr.date.shire.month.foreyule": "十二月",
   "lotr.date.shire.month.yule1": "尤尔一日",
-
   "gui.lotr.time.hours": "%dh",
   "gui.lotr.time.minutes": "%dm",
   "gui.lotr.time.seconds": "%ds",
   "gui.lotr.time.format.hms": "%s %s %s",
   "gui.lotr.time.format.ms": "%s %s",
   "gui.lotr.time.format.s": "%s",
-
   "gui.lotr.worldTypeHelp.title": "欢迎来到§o魔戒§rmod! 如果你是第一次玩, 以下是前往中洲的方法...",
   "gui.lotr.worldTypeHelp.normal": "选择'%s'世界类型，开启原版§oMinecraft§r世界, 你可以在主世界向火焰中扔一枚金戒指，创造出一个传送门进入中洲.",
   "gui.lotr.worldTypeHelp.me": "或是选择'%s'世界类型，直接生成在中洲.",
   "gui.lotr.worldTypeHelp.selected.1": "选择'%s'世界类型.",
   "gui.lotr.worldTypeHelp.selected.2": "(这可以在'%s'中更改)",
   "gui.lotr.worldTypeHelp.dismiss": "忽略",
-  
   "generator.lotr.me": "中洲", 
   "generator.lotr.me.info": "直接生成在中洲",
   "generator.lotr.me_classic": "中洲经典",
   "generator.lotr.me_classic.info": "直接生成在中洲，但是生物群系随机生成",
-  
   "gui.lotr.compass.coords": "%d, %d, %d",
-  
   "gui.lotr.menu": "%s菜单",
   "gui.lotr.menu.return": "菜单",
   "gui.lotr.menu.map": "地图",
   "gui.lotr.menu.factions": "派系",
-
   "gui.lotr.map.title": "%s地图",
   "gui.lotr.map.title.middle_earth": "中洲",
   "gui.lotr.map.coords": "x: %d, z: %d",
@@ -2123,11 +2096,9 @@
   "gui.lotr.map.areaOfInfluence.full": "杀敌获得完整结盟值区域",
   "gui.lotr.map.areaOfInfluence.reduced": "杀敌获得部分结盟值区域",
   "gui.lotr.map.waypoint.adopted.owner": "从玩家%s那里获得",
-  
   "gui.lotr.alignment.decimal_separator_char": ".",
   "gui.lotr.alignment.group_separator_char": ",",
   "gui.lotr.alignment.limits": "%s (%s)",
-  
   "gui.lotr.factions.title": "%s派系",
   "gui.lotr.factions.title.otherPlayer": "查看%s的结盟值",
   "gui.lotr.factions.page.overview": "概览",
@@ -2174,15 +2145,12 @@
   "gui.lotr.factions.pledgeLocked": "你无法获取该派系超过%1$s的更多结盟值，因为你已经对%2$s效忠了",
   "gui.lotr.factions.civilianKills.yes": "该派系鼓励击杀平民",
   "gui.lotr.factions.civilianKills.no": "该鼓励不鼓励击杀平民",
-  
   "gui.lotr.message.dismiss": "忽略",
   "gui.lotr.message.notDisplayedAgain": "本信息将不会再次展示",
   "gui.lotr.message.friendly_fire": "你正在试图攻击同盟NPC!\n\n禁用友军伤害将不会对同盟NPC造成任何伤害, 也能阻止你的无心之举破坏结盟. 若想启用友军伤害，请打开中洲菜单中的“选项”.",
   "gui.lotr.message.align_drain": "若你看到这个图标:\n\n\n\n这意味着你正在失去一个或多个派系的结盟值，原因是你与它们的宿敌派系保有正结盟值.\n盯紧点你的结盟值!",
-  
   "gui.lotr.fasttravel.travel": "正在迅速旅行到%s",
   "gui.lotr.fasttravel.skip": "按'%s'跳过此界面",
-  
   "gui.lotr.cwp.create.title": "创建自定义路径点",
   "gui.lotr.cwp.create.name": "命名:",
   "gui.lotr.cwp.create.lore": "介绍文本:",
@@ -2217,16 +2185,13 @@
   "gui.lotr.cwp.forsake.warning.2": "你将再也不能迅速旅行到此处, 并且此处积攒的一切冷却时间将会清除.",
   "gui.lotr.cwp.forsake.do": "确认遗弃",
   "gui.lotr.cwp.forsake.cancel": "取消",
-  
   "gui.lotr.restock_pouches": "合并物品进袋子",
-  
   "waypoint.lotr.himling":"希姆凌",
   "waypoint.lotr.himling.lore":"辛达语“永远严寒”，希姆凛山丘的顶峰，其余在愤怒之战中大部分被淹没。",
   "waypoint.lotr.tol_fuin":"托尔浮阴",
   "waypoint.lotr.tol_fuin.lore":"“暗夜笼罩的森林”，陶尔-努-浮阴的高地，在贝烈瑞安德沉没后存留了下来。",
   "waypoint.lotr.tol_morwen":"托尔墨玟",
   "waypoint.lotr.tol_morwen.lore":"逃脱了贝烈瑞安德沉没的一座孤零零的小丘，图林·图伦拔的母亲墨玟埋葬于此。",
-
   "waypoint.lotr.hobbiton":"霍比屯",
   "waypoint.lotr.hobbiton.lore":"夏尔中心的霍比特城镇，从袋底洞的小丘上能够尽收眼底。",
   "waypoint.lotr.brandywine_bridge":"白兰地桥",
@@ -2279,10 +2244,8 @@
   "waypoint.lotr.hay_gate.lore":"雄鹿地树篱的北大门，有人看守。",
   "waypoint.lotr.greenholm":"绿丘",
   "waypoint.lotr.greenholm.lore":"夏尔西部边界的远岗上的小镇。",
-
   "waypoint.lotr.withywindle_valley":"柳条河谷",
   "waypoint.lotr.withywindle_valley.lore":"奇怪的闹鬼谷地，柳条河自此穿过老林子。",
-
   "waypoint.lotr.forlond":"佛泷德",
   "waypoint.lotr.forlond.lore":"辛达语“北港”，舒恩湾北岸的精灵海港城市。",
   "waypoint.lotr.harlond":"哈泷德",
@@ -2295,7 +2258,6 @@
   "waypoint.lotr.elostirion.lore":"吉尔-加拉德为埃兰迪尔所建最高的一座白塔，据说存放着一颗真知晶石。",
   "waypoint.lotr.amon_ereb":"阿蒙埃瑞布",
   "waypoint.lotr.amon_ereb.lore":"林顿一座古老的小丘，在很久很久以前是一处极重要的瞭望台。",
-
   "waypoint.lotr.belegost":"贝烈戈斯特",
   "waypoint.lotr.belegost.lore":"蓝色山脉一处古老的矮人城市，在愤怒之战中被摧毁后又重建。",
   "waypoint.lotr.nogrod":"诺格罗德",
@@ -2310,7 +2272,6 @@
   "waypoint.lotr.arveduis_mines.lore":"蓝色山脉中的废弃矿井，阿尔诺的阿维杜伊王曾在此藏身以逃避安格玛的威胁。",
   "waypoint.lotr.thrains_halls":"瑟莱因的厅堂",
   "waypoint.lotr.thrains_halls.lore":"一处矮人居所，由瑟莱因以及其余从孤山逃出的矮人建造，直到今日仍有许多矿井正在使用。",
-
   "waypoint.lotr.north_downs":"北岗",
   "waypoint.lotr.north_downs.lore":"埃利阿多北部的一片丘陵，其西南尽头是古城佛诺斯特·埃莱因。",
   "waypoint.lotr.south_downs":"南岗",
@@ -2323,7 +2284,6 @@
   "waypoint.lotr.annuminas.lore":"阿尔诺的昔日王城，在通用语中称为诺布理。",
   "waypoint.lotr.greenway_crossroads":"绿大道路口",
   "waypoint.lotr.greenway_crossroads.lore":"东西大道和南北大道的交叉口。",
-
   "waypoint.lotr.bree":"布理",
   "waypoint.lotr.bree.lore":"布理地区的主要城镇，以其热情的人类与霍比特人而闻名。",
   "waypoint.lotr.staddle":"斯台多村",
@@ -2334,30 +2294,24 @@
   "waypoint.lotr.archet.lore":"切特森林边上的布理居民的城镇，原木交易活跃。",
   "waypoint.lotr.forsaken_inn":"遗忘客栈",
   "waypoint.lotr.forsaken_inn.lore":"距布理一日的骑行距离，此处孤独的旅馆是人类在荒野边上的最后一处聚居地。",
-
   "waypoint.lotr.weathertop":"风云顶",
   "waypoint.lotr.weathertop.lore":"阿蒙苏尔的瞭望塔废墟。昔日此处存放着一颗真知晶石。",
   "waypoint.lotr.last_bridge":"最后大桥",
   "waypoint.lotr.last_bridge.lore":"迷雾山脉前，东大道上的最后大桥。",
   "waypoint.lotr.old_elven_way":"老精灵之路",
   "waypoint.lotr.old_elven_way.lore":"一度穿过埃瑞吉安的古老道路，供精灵穿行。",
-
   "waypoint.lotr.rivendell":"幽谷",
   "waypoint.lotr.rivendell.lore":"伊姆拉缀丝的隐蔽山谷，埃尔隆德大人在此建立大海以东的最后庇护所。",
   "waypoint.lotr.ford_of_bruinen":"布茹伊能渡口",
   "waypoint.lotr.ford_of_bruinen.lore":"响水河流入幽谷处的浅滩。",
-
   "waypoint.lotr.trolls_cave":"食人妖洞窟",
   "waypoint.lotr.trolls_cave.lore":"三只无名食人妖的废弃巢穴，很久之前它们的生命在此终结。",
-
   "waypoint.lotr.carn_dum":"卡恩督姆",
   "waypoint.lotr.carn_dum.lore":"古老的安格玛王国首都。",
-
   "waypoint.lotr.west_gate":"西门",
   "waypoint.lotr.west_gate.lore":"卡扎督姆的西门。现今被称作墨瑞亚，曾经是都林一族的矮人的伟大洞窟与宅邸，北方世界的奇迹。",
   "waypoint.lotr.ost_in_edhil":"欧斯特-因-埃第尔",
   "waypoint.lotr.ost_in_edhil.lore":"埃瑞吉安的精灵之城的废墟。",
-
   "waypoint.lotr.duneard":"都内阿尔德",
   "waypoint.lotr.duneard.lore":"黑蛮地的北部边界，牧羊人和猎手的村庄在此坐落。",
   "waypoint.lotr.firwold":"费尔伍德",
@@ -2368,25 +2322,20 @@
   "waypoint.lotr.dwarrowvale.lore":"围绕着一处小村庄所建的黑蛮地村庄，据说此处曾经为瑟莱因和梭林·橡木盾提供食宿。",
   "waypoint.lotr.wulfburg":"伍尔夫堡",
   "waypoint.lotr.wulfburg.lore":"弗雷卡之子伍尔夫的要塞，他曾在“锤手”海尔姆统治时期夺下了美杜塞尔德。",
-
   "waypoint.lotr.lond_daer":"泷德戴尔",
   "waypoint.lotr.lond_daer.lore":"努门诺尔在中洲建立的第一座海港的古老废墟。",
   "waypoint.lotr.old_south_road":"老南大道",
   "waypoint.lotr.old_south_road.lore":"在北方王国陷落，南方王国衰败后，这条古老的王室大道长久以来沦为废墟。",
   "waypoint.lotr.mouths_of_isen":"艾森河口",
   "waypoint.lotr.mouths_of_isen.lore":"艾森河经过了人员稀少的埃奈德地区后，自此流入大海。",
-
   "waypoint.lotr.isengard":"艾森加德",
   "waypoint.lotr.isengard.lore":"迷雾山脉谷地中一处石制环场要塞，在此矗立着欧尔桑克塔，后成为萨茹曼的堡垒。",
-
   "waypoint.lotr.cape_of_forochel":"佛洛赫尔海岬",
   "waypoint.lotr.cape_of_forochel.lore":"寒冰海湾中凶险的浮冰地带，只有佛洛赫尔的雪人敢于在此游荡。",
   "waypoint.lotr.south_forochel":"南佛洛赫尔",
   "waypoint.lotr.south_forochel.lore":"寒冰荒地的洛斯索斯人少有的永久定居地之一。",
-  
   "waypoint.lotr.withered_heath":"枯荒野",
   "waypoint.lotr.withered_heath.lore":"灰色山脉的荒凉谷地，据说此处栖息着最后一条火龙。",
-
   "waypoint.lotr.mount_gundabad":"贡达巴德山",
   "waypoint.lotr.mount_gundabad.lore":"许久以前不死者都林在此山下苏醒，此处被奥克占据前是矮人的圣地。",
   "waypoint.lotr.mount_gram":"格拉姆山",
@@ -2405,12 +2354,10 @@
   "waypoint.lotr.goblin_town.lore":"高隘口之下蜿蜒曲折的洞穴与隧道，奥克在此黑暗中飞窜刮蹭。",
   "waypoint.lotr.eagles_eyrie":"鹰巢",
   "waypoint.lotr.eagles_eyrie.lore":"迷雾山脉东侧的一堆巨岩，仅可通过飞行到达。曼威的大鹰在此筑巢。",
-
   "waypoint.lotr.dains_halls":"戴因的厅堂",
   "waypoint.lotr.dains_halls.lore":"都林一族在灰色山脉的殖民地，在戴因被一条冷龙杀死后便被废弃。",
   "waypoint.lotr.scathas_lair":"斯卡萨的巢穴",
   "waypoint.lotr.scathas_lair.lore":"一度曾是大虫斯卡萨的巢穴，直到它被伊奥希奥德之王弗拉姆所杀。",
-
   "waypoint.lotr.carrock":"卡尔岩",
   "waypoint.lotr.carrock.lore":"一处高耸的岩石，坐落于“大河”安都因的中部。据称在晴朗的夜晚，一头巨熊会在此爬上岩石凝视月亮。",
   "waypoint.lotr.old_ford":"老渡口",
@@ -2427,17 +2374,14 @@
   "waypoint.lotr.forest_gate.lore":"曾是黑森林精灵在大绿林中的王国入口，此处黑森林的大门现今已被大敌的仆从玷污。",
   "waypoint.lotr.framsburg":"弗拉姆斯堡",
   "waypoint.lotr.framsburg.lore":"洛希尔人的祖先，北方人类中伊奥希奥德人的废墟城市。",
-
   "waypoint.lotr.thranduils_halls":"瑟兰杜伊的厅堂",
   "waypoint.lotr.thranduils_halls.lore":"精灵国王瑟兰杜伊的地下宫殿，据说此处是他们为了纪念昔日明霓国斯的辉煌而建。",
-
   "waypoint.lotr.dol_guldur":"多古尔都",
   "waypoint.lotr.dol_guldur.lore":"“妖术之丘”，死灵法师向东逃去之前的要塞巢穴，而今已是东夷那兹古尔可哈穆尔及其爪牙的住所。",
   "waypoint.lotr.rhosgobel":"罗斯戈贝尔",
   "waypoint.lotr.rhosgobel.lore":"褐袍拉达加斯特的居所，同时也是许多飞禽走兽的家，以及腐化的黑森林中的一处安全避风港。",
   "waypoint.lotr.enchanted_river":"魔法河",
   "waypoint.lotr.enchanted_river.lore":"老密林路自此穿过黑暗的河水。最好不要触碰此处的河水，否则会陷入长眠...",
-
   "waypoint.lotr.river_gate":"密林河大门",
   "waypoint.lotr.river_gate.lore":"密林河末尾附近一处黑森林精灵的前哨。",
   "waypoint.lotr.east_bight":"东林弯",
@@ -2446,7 +2390,6 @@
   "waypoint.lotr.old_rhovanion.lore":"很久以前，这片地区由伟大的人类王国罗瓦尼安统治，而今只余废墟。",
   "waypoint.lotr.dorwinion_crossroads":"多温尼安路口",
   "waypoint.lotr.dorwinion_crossroads.lore":"河谷邦通向多温尼安的大路上的交叉口。",
-
   "waypoint.lotr.erebor":"埃瑞博山",
   "waypoint.lotr.erebor.lore":"“孤山”，都林一族的山下王国位于此处。",
   "waypoint.lotr.dale":"河谷城",
@@ -2461,26 +2404,22 @@
   "waypoint.lotr.great_dalish_crossroads.lore":"许多河谷邦的道路在此相交，许多行会和市集坐落于此。",
   "waypoint.lotr.bardhaven":"巴德港",
   "waypoint.lotr.bardhaven.lore":"河谷邦的南方港口，也是一处同多温尼安贸易的重要地点。",
-
   "waypoint.lotr.west_peak":"西峰",
   "waypoint.lotr.west_peak.lore":"铁丘陵两处高峰中南部的一个。下方是铁足戴因的殿堂。",
   "waypoint.lotr.east_peak":"东峰",
   "waypoint.lotr.east_peak.lore":"铁丘陵山脉的东方末尾。",
-
   "waypoint.lotr.caras_galadhon":"卡拉斯加拉松",
   "waypoint.lotr.caras_galadhon.lore":"洛丝罗瑞恩的加拉兹民之城，世间精灵王国的中心。",
   "waypoint.lotr.cerin_amroth":"凯林阿姆洛斯",
   "waypoint.lotr.cerin_amroth.lore":"洛丝罗瑞恩中部的绿色大丘，从此处可以眺望到黑森林南部。",
   "waypoint.lotr.house_of_nimrodel":"宁洛德尔的家",
   "waypoint.lotr.house_of_nimrodel.lore":"精灵少女宁洛德尔曾经的家，自从她的挚爱阿姆洛斯在贝烈盖尔大海中溺水而亡后，再也没有人见过她。",
-
   "waypoint.lotr.derndingle":"秘林谷",
   "waypoint.lotr.derndingle.lore":"范贡森林的恩特在这一处空地聚面。",
   "waypoint.lotr.wellinghall":"涌泉厅",
   "waypoint.lotr.wellinghall.lore":"树须的恩特房屋之一，依靠美塞德拉斯山建造。",
   "waypoint.lotr.treebeards_hill":"树须的山丘",
   "waypoint.lotr.treebeards_hill.lore":"多岩的小丘，高于范贡森林的树顶。在此可以看清叶缘的阳光以及枝条间的微风。",
-
   "waypoint.lotr.woldhall":"北高原",
   "waypoint.lotr.woldhall.lore":"洛汗一处高地上的小城镇，人员稀少。",
   "waypoint.lotr.edoras":"埃多拉斯",
@@ -2501,14 +2440,12 @@
   "waypoint.lotr.corsairs_landing.lore":"在“锤手”海尔姆统治的年月中，一群南蛮子在此登陆并与黑蛮地人共同对抗洛汗。",
   "waypoint.lotr.frecas_hold":"弗雷卡堡",
   "waypoint.lotr.frecas_hold.lore":"此座古老堡垒由愚蠢的弗雷卡领主建造，他曾统治阿多恩河的周边地区，据说有部分黑蛮地血统。",
-
   "waypoint.lotr.dunharrow":"黑蛮祠",
   "waypoint.lotr.dunharrow.lore":"洛希尔人在“鬼影山脉”德维莫伯格下的庇护所，据说没有活人能够穿过亡者之路。",
   "waypoint.lotr.tarlangs_neck":"塔朗颈",
   "waypoint.lotr.tarlangs_neck.lore":"人类传说曾有一名巨人从此掉落并折断脖颈，形成了此处黑源河山谷与拉梅顿之间的山脉隘口。",
   "waypoint.lotr.ras_morthil":"拉斯墨希尔",
   "waypoint.lotr.ras_morthil.lore":"白色山脉西侧的最后一座高峰。安法拉斯的人类称菩科尔野人仍然在此流连。",
-
   "waypoint.lotr.minas_tirith":"米那斯提力斯",
   "waypoint.lotr.minas_tirith.lore":"“守卫之塔”，刚铎王国的王城，以白色大理石建造七层之高，在其顶峰筑就有埃克塞里安之塔。",
   "waypoint.lotr.cair_andros":"凯尔安德洛斯",
@@ -2529,7 +2466,6 @@
   "waypoint.lotr.amon_din.lore":"“寂静丘”，刚铎的烽火丘中距米那斯提力斯最近的一座。这里是白城的要塞前哨，在此可以概览伊希利恩的北部地区。",
   "waypoint.lotr.west_osgiliath":"西欧斯吉利亚斯",
   "waypoint.lotr.west_osgiliath.lore":"刚铎昔日首都的西部废墟，此处设有驻军以确保安都因处于刚铎控制之下。",
-
   "waypoint.lotr.east_osgiliath":"东欧斯吉利亚斯",
   "waypoint.lotr.east_osgiliath.lore":"刚铎昔日首都的东部废墟，而今刚铎与奥克经常在此发生冲突。",
   "waypoint.lotr.emyn_arnen":"埃敏阿尔能",
@@ -2540,55 +2476,44 @@
   "waypoint.lotr.crossroads_of_the_fallen_king.lore":"此处被遗弃的十字路口曾经安放着一座宏伟的国王雕像，尽管已成废墟，其头顶依然戴着金银冠冕。",
   "waypoint.lotr.crossings_of_poros":"波罗斯河渡口",
   "waypoint.lotr.crossings_of_poros.lore":"波罗斯河与哈隆铎的交界，在此附近立有一处伟大的小岗，洛汗的伏尔克威奈王的双胞胎儿子安眠于此。",
-
   "waypoint.lotr.pelargir":"佩拉基尔",
   "waypoint.lotr.pelargir.lore":"船王所统治的伟大的王室舰场，刚铎的主要海港。",
   "waypoint.lotr.linhir":"林希尔",
   "waypoint.lotr.linhir.lore":"刚铎南部的一座河流城镇，坐落于从佩拉基尔通向埃斯凛的路上。",
   "waypoint.lotr.ethir_anduin":"埃希尔安都因",
   "waypoint.lotr.ethir_anduin.lore":"安都因河口，刚铎的一些贫寒捕鱼人居住于此。",
-
   "waypoint.lotr.imloth_melui":"伊姆洛丝美路伊",
   "waypoint.lotr.imloth_melui.lore":"洛斯阿尔那赫中的“甜香花朵之谷”",
   "waypoint.lotr.crossings_of_erui":"埃茹伊河渡口",
   "waypoint.lotr.crossings_of_erui.lore":"洛斯阿尔那赫中埃茹伊河的浅滩，许多刚铎人在此处的内乱中丧生。",
-
   "waypoint.lotr.calembel":"卡伦贝尔",
   "waypoint.lotr.calembel.lore":"拉梅顿的一个城镇，距奇利尔河浅滩很近，有少量居民在此。",
   "waypoint.lotr.ethring":"埃斯凛",
   "waypoint.lotr.ethring.lore":"凛格罗谷地中的一座长桥，坐落在从佩拉基尔通向埃瑞赫的道路上。",
-
   "waypoint.lotr.erech":"埃瑞赫",
   "waypoint.lotr.erech.lore":"一座陡峭的大丘，据信有鬼魂出没，以其峰顶上神秘的黑色石块著名。",
-
   "waypoint.lotr.hirluins_halls": "希尔路因的大厅",
   "waypoint.lotr.hirluins_halls.lore": "刚铎的美丽绿色丘陵之主“白肤”希尔路因的王座。",
-
   "waypoint.lotr.dol_amroth":"多阿姆洛斯",
   "waypoint.lotr.dol_amroth.lore":"贝尔法拉斯海岸上的宏伟城堡，作为刚铎的一块封地，由多阿姆洛斯亲王治理。",
   "waypoint.lotr.edhellond":"埃蒂尔泷德",
   "waypoint.lotr.edhellond.lore":"刚铎南部的古老辛达海港。建造此处的精灵在很久以前就已尽数西渡。",
   "waypoint.lotr.tarnost":"塔尔诺斯特",
   "waypoint.lotr.tarnost.lore":"刚铎的城市，在过去的日子中由那些渴望向西航行的精灵所建。",
-
   "waypoint.lotr.tolfalas":"托尔法拉斯",
   "waypoint.lotr.tolfalas.lore":"贝尔法拉斯湾中的荒凉废弃的小岛。",
-
   "waypoint.lotr.amon_hen":"阿蒙汉",
   "waypoint.lotr.amon_hen.lore":"“观望之山”，古老的刚铎统治地区。",
   "waypoint.lotr.amon_lhaw":"阿蒙肖",
   "waypoint.lotr.amon_lhaw.lore":"“聆听之山”，古老的刚铎统治地区。",
   "waypoint.lotr.argonath":"阿刚那斯",
   "waypoint.lotr.argonath.lore":"“王者双柱”两座分别为阿纳瑞恩和伊熙尔杜的雕像，位于安都因河侧，守卫着曾经的刚铎北部边界。",
-
   "waypoint.lotr.north_undeep":"北河套",
   "waypoint.lotr.north_undeep.lore":"“大河”安都因两处河湾中北部的一个。此处的浅滩常被用作军队的中转点。",
   "waypoint.lotr.south_undeep":"南河套",
   "waypoint.lotr.south_undeep.lore":"“大河”安都因两处河湾中南部的一个。此处的浅滩常被用作军队的中转点。",
-
   "waypoint.lotr.black_gate":"黑门",
   "waypoint.lotr.black_gate.lore":"魔多的宏伟大门，由扭曲的钢条和黑暗的石块构成。没有生灵可以不经魔眼的许可就通过此处。",
-
   "waypoint.lotr.mount_doom":"末日山",
   "waypoint.lotr.mount_doom.lore":"欧洛朱因，魔多腹地的宏伟火山，索隆曾经在此锻造至尊魔戒。",
   "waypoint.lotr.barad_dur":"巴拉督尔",
@@ -2613,7 +2538,6 @@
   "waypoint.lotr.vale_of_the_fell_beasts.lore":"魔多山障后的一处黑暗山谷，凶恶巨兽与其他邪恶的生物在此繁殖。",
   "waypoint.lotr.eastern_guard":"东部守卫",
   "waypoint.lotr.eastern_guard.lore":"一座要塞，监视着从鲁恩通往魔多的道路。",
-
   "waypoint.lotr.fornurnen":"佛努尔能",
   "waypoint.lotr.fornurnen.lore":"努尔能湖的沉闷北岸。",
   "waypoint.lotr.harnurnen":"哈努尔能",
@@ -2624,10 +2548,8 @@
   "waypoint.lotr.rhunurnen.lore":"努尔能湖的朦胧东岸。",
   "waypoint.lotr.thorband":"梭尔班",
   "waypoint.lotr.thorband.lore":"努尔能海岸上的一处恶劣的监狱要塞。",
-
   "waypoint.lotr.valley_of_spiders":"蜘蛛山谷",
   "waypoint.lotr.valley_of_spiders.lore":"魔多的一处阴暗角落，乌苟立安特的后代在此繁殖。",
-
   "waypoint.lotr.mirulond":"米茹泷德",
   "waypoint.lotr.mirulond.lore":"奔流河上的葡萄酒港，多温尼安的阿瓦瑞精灵在此与黑森林王国的亲族轮船贸易。",
   "waypoint.lotr.vintner_court":"葡萄酒廷",
@@ -2636,10 +2558,8 @@
   "waypoint.lotr.golden_ford.lore":"离开多温尼安通入鲁德尔的边界。",
   "waypoint.lotr.amon_gwin":"阿蒙格温",
   "waypoint.lotr.amon_gwin.lore":"多温尼安丘陵中的高峰。",
-
   "waypoint.lotr.crossings_of_harnen":"哈尔能河渡口",
   "waypoint.lotr.crossings_of_harnen.lore":"这条河标记着哈隆铎的领土边界，并由此流入广阔的哈拉德地区。",
-
   "waypoint.lotr.belkadar":"贝尔卡达尔",
   "waypoint.lotr.belkadar.lore":"伟大的哈尔能河由此汇入贝尔法拉斯湾，在此伫立着哈尔能人的宏伟堡垒，作为他们对抗北方敌人的集结点。",
   "waypoint.lotr.an_batina": "安-巴提那",
@@ -2650,7 +2570,6 @@
   "waypoint.lotr.crossings_of_lithnen.lore":"利斯能河上的浅滩，通往东边的土地。其下方的河水经年累月间被刚铎的征服之剑染红。",
   "waypoint.lotr.ninzadin": "宁扎丁",
   "waypoint.lotr.ninzadin.lore": "南蛮子在哈尔能河边的一处定居地，此处有着以北方人的头骨装饰的恐怖之塔。",
-
   "waypoint.lotr.gath_azrazain":"加斯-阿兹拉扎因",
   "waypoint.lotr.gath_azrazain.lore":"用于监视海滨地区的古老努门诺尔要塞，多年前沦陷落入哈拉德人之手。",
   "waypoint.lotr.gate_of_fuinur": "阿那特·安-佛伊努尔",
@@ -2661,17 +2580,14 @@
   "waypoint.lotr.ajtiaz_an_ahar.lore": "南蛮子的伟大城市之一，以喧嚷的集市和来自哈拉德和鲁恩各地的货物而闻名。",
   "waypoint.lotr.gardens_of_beruthiel": "巴茹婓尔的花园",
   "waypoint.lotr.gardens_of_beruthiel.lore": "哈拉德的一座美丽花园，据说是许久之前一位追求贝如希尔的哈拉德统领所建。",
-
   "waypoint.lotr.umbar":"乌姆巴尔",
   "waypoint.lotr.umbar.lore":"黑努门诺尔人和海盗的骄傲之城，距哈拉德的领土最近的一座，和刚铎有着一段充满纷争的残酷历史。",
   "waypoint.lotr.gate_of_umbar": "乌姆巴尔的大门",
   "waypoint.lotr.gate_of_umbar.lore": "进入乌姆巴尔领土的低隘口。",
   "waypoint.lotr.gate_of_herumor": "阿那特·安-寇茹墨",
   "waypoint.lotr.gate_of_herumor.lore": "一座宏伟的要塞，据说很久以前由赫茹墨亲自下令建造，矗立于此守卫着乌姆巴尔湾。",
-  
   "waypoint.lotr.ijdi_ilel": "耶迪-伊勒尔",
   "waypoint.lotr.ijdi_ilel.lore": "南蛮子游牧民的营地，沙漠中的漫游者在此交易货物并讲述埃敏利斯能的传说",
-
   "road.lotr.blue_mountains": "蓝山矮人路",
   "road.lotr.nogrod_forlond": "蓝山矮人路",
   "road.lotr.nogrod_mithlond": "蓝山矮人路",
@@ -2720,7 +2636,6 @@
   "road.lotr.harad": "哈拉德路",
   "road.lotr.mordor_rhun_harad": "朝贡路",
   "road.lotr.umbar": "乌姆巴尔路",
-  
   "maplabel.lotr.belegaer": "贝烈盖尔",
   "maplabel.lotr.belegaer_sub": "隔离之海",
   "maplabel.lotr.north_moors": "北荒原",
@@ -2749,15 +2664,12 @@
   "maplabel.lotr.near_harad": "近哈拉德",
   "maplabel.lotr.lithnen": "埃敏莱斯能",
   "maplabel.lotr.khand": "可汗德",
-  
   "faction.lotr.unknown": "???",
   "faction.lotr.rank.neutral": "陌生人",
   "faction.lotr.rank.enemy": "敌人",
-    
   "factionregion.lotr.westlands": "西部地区",
   "factionregion.lotr.rhun": "鲁恩",
   "factionregion.lotr.harad": "哈拉德",
-  
   "faction.lotr.hobbits": "夏尔",
   "faction.lotr.hobbits.subtitle": "夏尔的小种人",
   "faction.lotr.hobbits.rank.guest": "客人 | 霍比特之客",
@@ -2767,7 +2679,6 @@
   "faction.lotr.hobbits.rank.shirriff": "夏警",
   "faction.lotr.hobbits.rank.chief_shirriff": "夏警队长",
   "faction.lotr.hobbits.rank.thain": "长官 | 夏尔长官",
-  
   "faction.lotr.bree": "布理地区",
   "faction.lotr.bree.subtitle": "布理的大种人和小种人",
   "faction.lotr.bree.rank.guest": "客人 | 布理地区之客",
@@ -2777,7 +2688,6 @@
   "faction.lotr.bree.rank.champion": "拥护者 | 布理地区拥护者",
   "faction.lotr.bree.rank.captain": "长官 | 布理地区长官",
   "faction.lotr.bree.rank.master": "主人 | 布理之主",
-
   "faction.lotr.dunedain_north": "北方杜内丹人",
   "faction.lotr.dunedain_north.subtitle": "沦陷阿尔诺王国的残存者",
   "faction.lotr.dunedain_north.rank.friend": "朋友 | 杜内丹人之友",
@@ -2787,7 +2697,6 @@
   "faction.lotr.dunedain_north.rank.roquen": "洛昆 | 北方的骑士",
   "faction.lotr.dunedain_north.rank.champion": "拥护者 | 北方拥护者",
   "faction.lotr.dunedain_north.rank.captain": "统帅 | 游民的统帅",
-  
   "faction.lotr.blue_mountains": "蓝色山脉",
   "faction.lotr.blue_mountains.subtitle": "埃瑞德路因的矮人",
   "faction.lotr.blue_mountains.rank.guest": "客人 | 蓝色山脉之客",
@@ -2798,7 +2707,6 @@
   "faction.lotr.blue_mountains.rank.captain": "统帅 | 蓝色山脉统帅",
   "faction.lotr.blue_mountains.rank.noble": "贵族 | 蓝色山脉贵族",
   "faction.lotr.blue_mountains.rank.lord": "乌兹巴德-卡加尔阿巴杜 ~ 乌兹巴都那-卡加尔阿巴杜 | 蓝色山脉领主 ~ 蓝色山脉女领主",
-  
   "faction.lotr.high_elves": "高等精灵",
   "faction.lotr.high_elves.subtitle": "伊姆拉缀斯与林顿的诺多族与辛达族精灵",
   "faction.lotr.high_elves.rank.guest": "客人 | 高等精灵之客",
@@ -2809,7 +2717,6 @@
   "faction.lotr.high_elves.rank.noble": "阿尔昆 | 高等精灵贵族",
   "faction.lotr.high_elves.rank.commander": "卡诺-诺多隆 | 高等精灵领导者",
   "faction.lotr.high_elves.rank.lord": "赫茹-诺多隆 ~ 赫瑞-诺多隆 | 高等精灵领主 ~ 高等精灵夫人",
-  
   "faction.lotr.northern_orcs": "北方奥克",
   "faction.lotr.northern_orcs.subtitle": "北方山脉中群蛇无首的奥克部族",
   "faction.lotr.northern_orcs.rank.thrall": "奴仆 | 山脉的奴仆",
@@ -2819,7 +2726,6 @@
   "faction.lotr.northern_orcs.rank.scourge": "祸害 | 贡达巴德祸害",
   "faction.lotr.northern_orcs.rank.warlord": "头目 | 贡达巴德头目",
   "faction.lotr.northern_orcs.rank.chieftain": "统领 | 贡达巴德统领",
-  
   "faction.lotr.angmar": "安格玛",
   "faction.lotr.angmar.subtitle": "巫术王国废墟中的山区人",
   "faction.lotr.angmar.rank.thrall": "奴仆 | 安格玛的奴仆",
@@ -2829,7 +2735,6 @@
   "faction.lotr.angmar.rank.champion": "捍卫者 | 安格玛捍卫者",
   "faction.lotr.angmar.rank.warlord": "头目 | 安格玛头目",
   "faction.lotr.angmar.rank.chieftain": "统领 | 安格玛统领",
-  
   "faction.lotr.lossoth": "洛斯索斯人",
   "faction.lotr.lossoth.subtitle": "佛洛赫尔的雪人",
   "faction.lotr.lossoth.rank.guest": "客人 | 洛斯索斯人之客",
@@ -2839,7 +2744,6 @@
   "faction.lotr.lossoth.rank.headman": "头领 | 洛斯索斯头领",
   "faction.lotr.lossoth.rank.chieftain": "领袖 | 洛斯索斯领袖",
   "faction.lotr.lossoth.rank.snowchief": "伟大雪首",
-  
   "faction.lotr.woodland_realm": "黑森林王国",
   "faction.lotr.woodland_realm.subtitle": "黑森林的西尔凡精灵",
   "faction.lotr.woodland_realm.rank.guest": "客人 | 黑森林之客",
@@ -2849,7 +2753,6 @@
   "faction.lotr.woodland_realm.rank.captain": "队长 | 黑森林精灵队长",
   "faction.lotr.woodland_realm.rank.noble": "阿尔芬-埃林 | 黑森林精灵贵族",
   "faction.lotr.woodland_realm.rank.lord": "希尔-埃林 ~ 希瑞尔-埃林 | 黑森林精灵领主 ~ 黑森林精灵夫人",
-  
   "faction.lotr.dol_guldur": "多古尔都",
   "faction.lotr.dol_guldur.subtitle": "多古尔都的丑恶怪物",
   "faction.lotr.dol_guldur.rank.thrall": "奴仆 | 南黑森林奴仆",
@@ -2859,7 +2762,6 @@
   "faction.lotr.dol_guldur.rank.despoiler": "掠夺者 | 多古尔都掠夺者",
   "faction.lotr.dol_guldur.rank.captain": "头领 | 多古尔都头领",
   "faction.lotr.dol_guldur.rank.lieutenant": "可哈穆尔的副官",
-  
   "faction.lotr.dale": "河谷邦",
   "faction.lotr.dale.subtitle": "北方人类的王国",
   "faction.lotr.dale.rank.guest": "客人 | 巴德一族之客",
@@ -2869,7 +2771,6 @@
   "faction.lotr.dale.rank.captain": "队长 | 河谷邦队长",
   "faction.lotr.dale.rank.marshal": "元帅 | 河谷邦元帅",
   "faction.lotr.dale.rank.lord": "领主 ~ 女士 | 河谷邦领主 ~ 河谷邦女士",
-  
   "faction.lotr.durins_folk": "都林一族",
   "faction.lotr.durins_folk.subtitle": "卡扎督姆的长须矮人",
   "faction.lotr.durins_folk.rank.guest": "客人 | 长须族之客",
@@ -2880,7 +2781,6 @@
   "faction.lotr.durins_folk.rank.commander": "指挥官 | 卡扎德指挥官",
   "faction.lotr.durins_folk.rank.lord": "领主 ~ 女士 | 矮人领主 ~ 矮人女士",
   "faction.lotr.durins_folk.rank.uzbad": "乌兹巴德 希金-塔拉古 ~ 乌兹巴都那 希金-塔拉古 | 长须之王 ~ 长须女王",
-  
   "faction.lotr.lothlorien": "洛丝罗瑞恩",
   "faction.lotr.lothlorien.subtitle": "金色森林的加拉兹民",
   "faction.lotr.lothlorien.rank.guest": "客人 | 罗瑞恩之客",
@@ -2891,7 +2791,6 @@
   "faction.lotr.lothlorien.rank.captain": "赫斯特 | 罗瑞恩队长",
   "faction.lotr.lothlorien.rank.noble": "阿尔芬 | 罗瑞恩贵族",
   "faction.lotr.lothlorien.rank.lord": "希尔-罗瑞恩 ~ 希瑞尔-罗瑞恩 | 罗瑞恩领主 ~ 罗瑞恩夫人",
-  
   "faction.lotr.dunland": "黑蛮地",
   "faction.lotr.dunland.subtitle": "黑蛮地的野蛮山区部族",
   "faction.lotr.dunland.rank.guest": "客人 | 黑蛮地之客",
@@ -2901,7 +2800,6 @@
   "faction.lotr.dunland.rank.avenger": "复仇者 | 黑蛮地复仇者",
   "faction.lotr.dunland.rank.warlord": "头目 | 黑蛮地头目",
   "faction.lotr.dunland.rank.chieftain": "统领 | 黑蛮地统领",
-  
   "faction.lotr.isengard": "艾森加德",
   "faction.lotr.isengard.subtitle": "艾森加德可怖的乌鲁克族",
   "faction.lotr.isengard.rank.thrall": "仆人 | 艾森加德仆人",
@@ -2912,7 +2810,6 @@
   "faction.lotr.isengard.rank.corporal": "大将 | 艾森加德大将",
   "faction.lotr.isengard.rank.hand": "白手副官",
   "faction.lotr.isengard.rank.captain": "艾森加德之手",
-  
   "faction.lotr.fangorn": "范贡森林",
   "faction.lotr.fangorn.subtitle": "恩特的古老森林",
   "faction.lotr.fangorn.rank.newcomer": "新来者",
@@ -2920,7 +2817,6 @@
   "faction.lotr.fangorn.rank.treeherd": "牧树人 | 范贡牧树人",
   "faction.lotr.fangorn.rank.master": "长老 | 范贡长老",
   "faction.lotr.fangorn.rank.elder": "主人 | 范贡之主",
-  
   "faction.lotr.rohan": "洛汗",
   "faction.lotr.rohan.subtitle": "洛希尔人的王国",
   "faction.lotr.rohan.rank.guest": "客人 | 洛汗之客",
@@ -2930,7 +2826,6 @@
   "faction.lotr.rohan.rank.rider": "骠骑 | 洛汗骠骑",
   "faction.lotr.rohan.rank.captain": "队长 | 埃奥尔一族队长",
   "faction.lotr.rohan.rank.marshal": "元帅 | 埃奥尔一族元帅",
-  
   "faction.lotr.gondor": "刚铎",
   "faction.lotr.gondor.subtitle": "杜内丹人的南方王国",
   "faction.lotr.gondor.rank.guest": "客人 | 刚铎之客",
@@ -2941,7 +2836,6 @@
   "faction.lotr.gondor.rank.champion": "统帅 | 刚铎统帅",
   "faction.lotr.gondor.rank.captain": "王者 | 刚铎王者",
   "faction.lotr.gondor.rank.lord": "领主 ~ 女领主 | 刚铎领主 ~ 刚铎女领主",
-  
   "faction.lotr.mordor": "魔多",
   "faction.lotr.mordor.subtitle": "黑暗之地的军团",
   "faction.lotr.mordor.rank.thrall": "仆人 | 魔多仆人",
@@ -2952,7 +2846,6 @@
   "faction.lotr.mordor.rank.captain": "头领 | 魔多头领",
   "faction.lotr.mordor.rank.lieutenant": "魔古尔副官",
   "faction.lotr.mordor.rank.commander": "路格布尔兹指挥官",
-  
   "faction.lotr.dorwinion": "多温尼安",
   "faction.lotr.dorwinion.subtitle": "鲁恩内海岸边的葡萄酒商",
   "faction.lotr.dorwinion.rank.guest": "客人 | 多温尼安之客",
@@ -2963,7 +2856,6 @@
   "faction.lotr.dorwinion.rank.master": "大师 | 葡萄酒品鉴师",
   "faction.lotr.dorwinion.rank.chief": "首席品酒师",
   "faction.lotr.dorwinion.rank.lord": "领主 ~ 女领主 | 多温尼安领主 ~ 多温尼安女领主",
-  
   "faction.lotr.rhudel": "鲁德尔",
   "faction.lotr.rhudel.subtitle": "鲁恩地区的金色东夷",
   "faction.lotr.rhudel.rank.bondsman": "奴隶 | 东夷奴隶",
@@ -2974,7 +2866,6 @@
   "faction.lotr.rhudel.rank.golden": "金煌战士",
   "faction.lotr.rhudel.rank.warlord": "头目 | 鲁德尔头目",
   "faction.lotr.rhudel.rank.chieftain": "统领 | 鲁德尔统领",
-  
   "faction.lotr.near_harad": "近哈拉德",
   "faction.lotr.near_harad.subtitle": "哈尔能河对面的南蛮子",
   "faction.lotr.near_harad.rank.guest": "客人 | 南蛮子之客",
@@ -2985,7 +2876,6 @@
   "faction.lotr.near_harad.rank.serpentguard": "黑蛇守卫",
   "faction.lotr.near_harad.rank.warlord": "头目 | 南蛮子头目",
   "faction.lotr.near_harad.rank.prince": "亲王 ~ 女王 | 哈拉德亲王 ~ 哈拉德女王",
-  
   "faction.lotr.morwaith": "墨怀斯",
   "faction.lotr.morwaith.subtitle": "大草原的哈拉德部落",
   "faction.lotr.morwaith.rank.guest": "客人 | 墨怀斯之客",
@@ -2995,7 +2885,6 @@
   "faction.lotr.morwaith.rank.warrior": "雄狮战士",
   "faction.lotr.morwaith.rank.chief": "雄狮头领",
   "faction.lotr.morwaith.rank.greatchief": "太阳之王",
-  
   "faction.lotr.taurethrim": "陶瑞斯",
   "faction.lotr.taurethrim.subtitle": "南方丛林的哈拉德人",
   "faction.lotr.taurethrim.rank.guest": "客人 | 陶瑞斯之客",
@@ -3005,7 +2894,6 @@
   "faction.lotr.taurethrim.rank.champion": "捍卫者 | 森林的捍卫者",
   "faction.lotr.taurethrim.rank.warlord": "头领 | 陶瑞斯头领",
   "faction.lotr.taurethrim.rank.splendour": "伟大头领",
-  
   "faction.lotr.half_trolls": "半食人妖",
   "faction.lotr.half_trolls.subtitle": "远哈拉德丑陋可怖的食人妖族",
   "faction.lotr.half_trolls.rank.guest": "客人 | 半食人妖之客",
@@ -3015,15 +2903,12 @@
   "faction.lotr.half_trolls.rank.raider": "掠夺者 | 半食人妖掠夺者",
   "faction.lotr.half_trolls.rank.warlord": "头目 | 半食人妖头目",
   "faction.lotr.half_trolls.rank.chieftain": "统领 | 半食人妖统领",
-  
   "factionrelation.lotr.ally": "同盟",
   "factionrelation.lotr.friend": "之友",
   "factionrelation.lotr.neutral": "中立",
   "factionrelation.lotr.enemy": "敌人",
   "factionrelation.lotr.mortal_enemy": "宿敌",
-  
   "lotr.alignment.break_pledge": "打破宣誓",
-  
   "stat.lotr.interact_faction_crafting_table":"与派系工作台互动次数",
   "stat.lotr.throw_ring_in_fire":"将戒指扔进火里的次数",
   "stat.lotr.interact_alloy_forge": "与合金锻炉的互动次数",
@@ -3042,7 +2927,6 @@
   "stat.lotr.open_pouch": "打开过的袋子数量",
   "stat.lotr.clean_pouch": "洗干净过的袋子数量",
   "stat.lotr.clean_smoking_pipe": "洗干净过的烟斗数量",
-  
   "chat.lotr.respawn.farFromBed": "你的死亡地点距床过远，所以重生在死亡地点附近",
   "chat.lotr.respawn.farFromWorldSpawn": "你的死亡地点距默认重生点过远，所以重生在死亡地点附近",
   "chat.lotr.ft.disabled.gamerule": "这个服务器里禁用迅速旅行",
@@ -3090,7 +2974,6 @@
   "chat.lotr.cwp.forsake": "遗弃了自定义路径点'%s'!",
   "chat.lotr.cwp.adopted.destroyed": "获得的自定义路径点'%s'被其创建者销毁了!",
   "chat.lotr.palantir.ponder": "你疯狂转动小脑瓜想这个晶球是干什么的，但你想破脑袋都想不出怎么使用它。",
-
   "death.attack.lotr.plant":"%s被植物杀死",
   "death.attack.lotr.frost":"%s没有经受住严寒",
   "death.attack.lotr.poisonDrink":"%s喝错了东西",
@@ -3098,7 +2981,6 @@
   "death.attack.lotr.quagmire": "%s陷入了沼泽中",
   "death.attack.lotr.thrownSpear": "%1$s被%2$s的投矛杀死了",
   "death.attack.lotr.thrownSpear.item": "%1$s被%2$s用投出去的%3$s杀死了",
-  
   "subtitles.lotr.ambience.weather.wind": "狂风呼啸",
   "subtitles.lotr.block.gate.close": "关闭大门",
   "subtitles.lotr.block.gate.open": "开启大门",
@@ -3120,7 +3002,6 @@
   "subtitles.lotr.item.pouch.open": "打开袋子",
   "subtitles.lotr.item.pouch.restock": "合并物品",
   "subtitles.lotr.item.smoke_puff": "喷出烟雾",
-  
   "commands.lotr.wpregion.unlock.success.single": "为%s解锁了路径点地区%s",
   "commands.lotr.wpregion.unlock.success.multiple": "为%s玩家们解锁了路径点地区%s",
   "commands.lotr.wpregion.unlock.failure.single": "%s已经解锁了路径点地区%s",
@@ -3175,18 +3056,15 @@
   "commands.lotr.pledge.cooldown.multiple": "设置%d名玩家的再次能够宣誓冷却时间为%d名(%s)",
   "commands.lotr.pledge.query.pledged": "%s已经对%s宣誓效忠",
   "commands.lotr.pledge.query.none": "%s尚未对任何派系宣誓效忠",
-
   "argument.lotr.waypointRegion.id.invalid": "未知路径点地区'%s'",
   "argument.lotr.faction.id.invalid": "未知派系'%s'",
   "argument.lotr.playerMessage.id.invalid": "未知信息类型'%s'",
-
   "gamerule.lotr:orc_skirmish": "奥克内斗",
   "gamerule.lotr:middle_earth_respawning": "中洲专属的玩家重生机制",
   "gamerule.lotr:fast_travel": "允许迅速旅行",
   "gamerule.lotr:custom_waypoint_creation": "允许自定义路径点",
   "gamerule.lotr:gondor_beacon_range": "刚铎烽火台范围",
   "gamerule.lotr:gondor_beacon_lighting_time": "刚铎烽火台点燃持续时长",
-
   "key.categories.mod.lotr": "魔戒模组",
   "key.lotr.menu": "打开中洲地图菜单",
   "key.lotr.map_teleport": "地图传送",
@@ -3194,7 +3072,6 @@
   "key.lotr.alignment_next": "下个结盟值",
   "key.lotr.alignment_group_previous": "上组结盟值",
   "key.lotr.alignment_group_next": "下组结盟值",
-  
   "config.lotr.modSky": "中洲天空",
   "config.lotr.modClouds": "中洲云",
   "config.lotr.cloudRange": "云范围",
@@ -3204,13 +3081,11 @@
   "config.lotr.mistyMountainsMist": "迷雾山脉的迷雾",
   "config.lotr.newWeatherRendering": "新的天气渲染",
   "config.lotr.newRainGroundParticles": "新的雨滴粒子",
-  
   "config.lotr.modMainMenu": "中洲主菜单",
   "config.lotr.sepiaMap": "褐色地图",
   "config.lotr.mapLabels": "地图标记",
   "config.lotr.fogOfWar": "战争迷雾",
   "config.lotr.imperialWaypointDistances": "路径点与玩家距离(英制)",
-  
   "config.lotr.compass": "屏幕上的指南针",
   "config.lotr.compassInfo": "屏幕上的指南针信息",
   "config.lotr.showAlignmentEverywhere": "在任何地方显示结盟栏",
@@ -3219,28 +3094,22 @@
   "config.lotr.immersiveSpeech": "沉浸对话",
   "config.lotr.immersiveSpeechChatLog": "沉浸对话日志",
   "config.lotr.immersiveSpeechDuration": "沉浸对话保持时长",
-  
   "config.lotr.dolAmrothChestplateWings": "多阿姆洛斯胸甲上翅膀的羽翼数",
   "config.lotr.mannishWomenUseAlexModelStyle": "使用'Alex'模型的人类女性NPC",
   "config.lotr.elfWomenUseAlexModelStyle": "使用'Alex'模型的精灵女性NPC",
   "config.lotr.dwarfWomenUseAlexModelStyle": "使用'Alex'模型的矮人女性NPC",
   "config.lotr.hobbitWomenUseAlexModelStyle": "使用'Alex'模型的霍比特女性NPC",
   "config.lotr.orcWomenUseAlexModelStyle": "使用'Alex'模型的奥克雌性NPC",
-  
   "config.lotr.windAmbience": "环境风声",
   "config.lotr.newRainSounds": "新的雨声",
   "config.lotr.newThunderSounds": "新的雷声",
-  
   "config.lotr.drunkSpeech": "醉酒文本",
   "config.lotr.npcTalkToPlayerMinDuration": "NPC同玩家交谈 - 最小时长",
   "config.lotr.npcTalkToPlayerMaxDuration": "NPC同玩家交谈 - 最大时长",
   "config.lotr.areasOfInfluence": "派系影响区域",
   "config.lotr.alignmentDraining": "结盟值减少中",
-  
   "config.lotr.smallerBees": "迷你蜜蜂",
-  
   "config.lotr.forceMapLocations": "强制隐藏/显示地图位置",
-  
   "config.lotr.generateBiomeJsons": "生成魔戒生物群系JSON文件",
   "config.lotr.forceFogOfWar": "强制启用/禁用战争迷雾"
 }
